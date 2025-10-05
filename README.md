@@ -1,5 +1,7 @@
 
-  # Landing Page Design
+  # Honourus- Prototype (Copy)
+
+  This is a code bundle for Honourus- Prototype (Copy). The original project is available at https://www.figma.com/design/NPYAguOlYx50f0m86btLbD/Honourus--Prototype--Copy-.
 
   ## Running the code
 
